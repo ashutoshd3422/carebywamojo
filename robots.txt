@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://care.wamojo.com/sitemap.xml
